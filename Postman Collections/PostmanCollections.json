@@ -549,7 +549,7 @@
 					}
 				},
 				"url": {
-					"raw": "https://api.trello.com/1/cards/65227a1308b818b6bb86d123/?key={{API Key}}&token={{API Token}}",
+					"raw": "https://api.trello.com/1/cards/6522a1ea155657ce6b939251/?key={{API Key}}&token={{API Token}}",
 					"protocol": "https",
 					"host": [
 						"api",
@@ -559,7 +559,7 @@
 					"path": [
 						"1",
 						"cards",
-						"65227a1308b818b6bb86d123",
+						"6522a1ea155657ce6b939251",
 						""
 					],
 					"query": [
@@ -938,7 +938,7 @@
 					}
 				],
 				"url": {
-					"raw": "https://api.trello.com/1/cards/65228c334f7ab6ad14e7d93a/actions/comments?text=Komentarz testowy&key={{API Key}}&token={{API Token}}",
+					"raw": "https://api.trello.com/1/cards/6522a1ea155657ce6b939251/actions/comments?text=Komentarz testowy&key={{API Key}}&token={{API Token}}",
 					"protocol": "https",
 					"host": [
 						"api",
@@ -948,7 +948,7 @@
 					"path": [
 						"1",
 						"cards",
-						"65228c334f7ab6ad14e7d93a",
+						"6522a1ea155657ce6b939251",
 						"actions",
 						"comments"
 					],
